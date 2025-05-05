@@ -95,7 +95,7 @@ const Page = () => {
             <img
               className="object-cover object-center rounded"
               alt="Aditya Plastics"
-              src="https://dummyimage.com/720x600/cccccc/000000&text=Aditya+Plastics"
+              src="/flex.png"
             />
           </div>
         </div>
