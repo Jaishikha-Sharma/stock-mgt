@@ -1,6 +1,39 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## 📦 Next.js Project – Stock Management App
+This is a Next.js project bootstrapped with create-next-app.
+
+A modern stock management web application built for a client using Next.js, MongoDB, and Tailwind CSS.
+The app features product management, search functionality, and a clean responsive UI.
+Tailbox is used to build a beautiful and consistent header component.
+
+##🚀 Features
+📦 Add New Products with API integration
+
+
+🔍 Search for products with instant feedback
+
+
+🎨 Responsive and beautiful UI with Tailwind CSS
+
+
+🧠 Built using App Router and latest Next.js best practices
+
+
+🌐 Deployed via Vercel for production-ready performance
+
+##🔧 Tech Stack
+Framework: Next.js (App Router)
+
+
+Backend: MongoDB Atlas (via Mongoose)
+
+
+Styling: Tailwind CSS + Tailbox components
+
+
+Deployment: Vercel
+
 
 First, run the development server:
 
