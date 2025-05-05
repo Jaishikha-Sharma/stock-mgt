@@ -7,7 +7,7 @@ A modern stock management web application built for a client using Next.js, Mong
 The app features product management, search functionality, and a clean responsive UI.
 Tailbox is used to build a beautiful and consistent header component.
 
-##🚀 Features
+## 🚀 Features
 📦 Add New Products with API integration
 
 
@@ -22,7 +22,7 @@ Tailbox is used to build a beautiful and consistent header component.
 
 🌐 Deployed via Vercel for production-ready performance
 
-##🔧 Tech Stack
+## 🔧 Tech Stack
 Framework: Next.js (App Router)
 
 
