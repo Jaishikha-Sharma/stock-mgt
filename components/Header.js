@@ -58,12 +58,6 @@ const Header = () => {
           <Link href="/stock" className="hover:text-[#F2F0EA] cursor-pointer">
             Stock Manager
           </Link>
-          <Link
-            href="/services"
-            className="hover:text-[#F2F0EA] cursor-pointer"
-          >
-            Our Services
-          </Link>
         </nav>
       </div>
     </header>
